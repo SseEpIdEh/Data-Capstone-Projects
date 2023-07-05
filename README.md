@@ -1,4 +1,5 @@
 # Data-Capstone-Projects
+**I just started to learn**
 
 ***Finance Data Project***
 
